@@ -1,0 +1,2 @@
+# Test Hello World endpoint
+GET http://localhost:8080/
