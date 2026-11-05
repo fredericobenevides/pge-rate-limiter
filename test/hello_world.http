@@ -1,0 +1,6 @@
+### Test Middleware without API key
+GET http://localhost:8080/
+
+### Test Middleware with API key
+GET http://localhost:8080/
+API_KEY: my_api_key
